@@ -1,0 +1,12 @@
+bean\Part.class
+bean\Bill.class
+bean\enumeration\Location.class
+bean\enumeration\FrameType.class
+bean\enumeration\Mark.class
+bean\Car.class
+bean\enumeration\WashState.class
+bean\enumeration\State.class
+bean\enumeration\RepairState.class
+bean\User.class
+bean\AuthorizedUser.class
+bean\enumeration\Color.class

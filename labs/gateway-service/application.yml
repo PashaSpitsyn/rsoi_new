@@ -1,0 +1,6 @@
+server:
+  port: 8080
+service:
+  car: http://127.0.0.1:8082/cars
+  bill: http://127.0.0.1:8081/bills
+  part: http://127.0.0.1:8083/parts

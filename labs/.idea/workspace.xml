@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="450bc77b-69c2-4c89-9ff4-7879ee606e60" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/parts-service/target/" />
+    <ignored path="$PROJECT_DIR$/gateway-service/target/" />
+    <ignored path="$PROJECT_DIR$/bill-service/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/car-service/target/" />
+    <ignored path="$PROJECT_DIR$/frontend-service/target/" />
+    <ignored path="$PROJECT_DIR$/user-service/target/" />
+    <ignored path="$PROJECT_DIR$/auth-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="labs" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bill-service/src/main/java/rsoi/BillMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/car-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bill-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parts-service/src/main/java/rsoi/PartsMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/rsoi/GatewayMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+              <folding>
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IndexController</find>
+      <find>rsoi</find>
+      <find>parent</find>
+      <find>//sh</find>
+      <find>details</find>
+      <find>AbstractAuthenticationToken</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/exceptions/NotFoundException.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/resources/templates/404error.html" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/ControllerExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/resources/templates/400error.html" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/security/authserver/AuthorizationServerApplication.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/security/authserver/AuthServerConfig.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/config/UserController.java" />
+        <option value="$PROJECT_DIR$/frontend-service/pom.xml" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/security/ui/UiSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/resources/templates/error/404.html" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/resources/templates/error/400.html" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/security/ui/UiWebConfig.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/resources/templates/securedPage.html" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/config/AuthServerConfig.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/car-service/src/main/java/rsoi/persistence/CarRepository.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/src/main/java/rsoi/AuthorizedUserRepoImpl.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/config/AuthorizationServerApplication.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/user-service/src/main/java/rsoi/AuthorizedUserRepository.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/bean/User.java" />
+        <option value="$PROJECT_DIR$/user-service/src/main/java/rsoi/UserRepository.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/config/CustomUserService.java" />
+        <option value="$PROJECT_DIR$/auth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/bootstrap/DataLoader.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/bootstrap/DataLoader.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/bean/AuthorizedUser.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/AuthorizationServerApplication.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/FrontendMain.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/AuthServerConfig.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/CustomUserService.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/resources/templates/error/401.html" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/java/rsoi/UserController.java" />
+        <option value="$PROJECT_DIR$/auth-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/ExceptionController.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/CustomException.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/ErrorController.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/resources/templates/error/404.html" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/resources/templates/error/400.html" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/resources/templates/error/401.html" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/resources/templates/error/error.html" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/ErrController.java" />
+        <option value="$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/CarController.java" />
+        <option value="$PROJECT_DIR$/bill-service/application.yml" />
+        <option value="$PROJECT_DIR$/bill-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/parts-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/car-service/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="bill-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="bill-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="bill-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="bill-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="car-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="car-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="car-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labs" type="462c0819:PsiDirectoryNode" />
+              <item name="car-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="labs" type="58d84e3e:PackageViewProjectNode" />
+              <item name="auth-server" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="labs" type="58d84e3e:PackageViewProjectNode" />
+              <item name="user-service" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548105703108" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gateway-service" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="rsoi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\jane osten\upwork\labs\labs_original\labs\frontend-service\src\main\resources\templates\error" />
+      <recent name="D:\jane osten\upwork\labs\labs_original\labs\frontend-service\src\main\resources\templates" />
+      <recent name="$PROJECT_DIR$/frontend-service/src/main/resources/public" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="rsoi.controller" />
+      <recent name="rsoi.commands" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\jane osten\upwork\labs\labs_original\labs\auth-server\src\main\resources\templates" />
+      <recent name="D:\jane osten\upwork\labs\labs_original\labs\car-service\src\main\resources\templates" />
+      <recent name="D:\jane osten\upwork\labs\labs_original\labs\frontend-service\src\main\resources\templates" />
+      <recent name="D:\jane osten\upwork\labs\labs_original\labs\frontend-service\src\main\resources\static" />
+      <recent name="$PROJECT_DIR$/frontend-service/src/main/resources/public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GatewayMain">
+    <configuration name="BillMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rsoi.BillMain" />
+      <module name="bill-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rsoi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rsoi.CarMain" />
+      <module name="car-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rsoi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontendMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rsoi.FrontendMain" />
+      <module name="frontend-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/frontend-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rsoi.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rsoi.GatewayMain" />
+      <module name="gateway-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gateway-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rsoi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rsoi.PartsMain" />
+      <module name="parts-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rsoi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labs [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="BillMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rsoi.BillMain" />
+      <module name="bill-service" />
+      <envs />
+    </configuration>
+    <configuration name="CarMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rsoi.CarMain" />
+      <module name="car-service" />
+      <envs />
+    </configuration>
+    <configuration name="GatewayMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rsoi.GatewayMain" />
+      <module name="gateway-service" />
+      <envs />
+    </configuration>
+    <configuration name="PartsMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rsoi.PartsMain" />
+      <module name="parts-service" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FrontendMain" />
+      <item itemvalue="Application.BillMain" />
+      <item itemvalue="Application.CarMain" />
+      <item itemvalue="Application.GatewayMain" />
+      <item itemvalue="Application.PartsMain" />
+      <item itemvalue="Maven.labs [clean,install]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GatewayMain" />
+        <item itemvalue="Application.CarMain" />
+        <item itemvalue="Application.PartsMain" />
+        <item itemvalue="Application.BillMain" />
+        <item itemvalue="Application.FrontendMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="450bc77b-69c2-4c89-9ff4-7879ee606e60" name="Default Changelist" comment="" />
+      <created>1547162617386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547162617386</updated>
+      <workItem from="1547162640116" duration="4060000" />
+      <workItem from="1547233948195" duration="11322000" />
+      <workItem from="1547282899188" duration="49544000" />
+      <workItem from="1547374356563" duration="37347000" />
+      <workItem from="1547905082553" duration="7846000" />
+      <workItem from="1547934767526" duration="11003000" />
+      <workItem from="1547985455680" duration="30587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BillControllerTest - 2018.12.19 at 21h 59m 56s.xml">
+      <configuration name="BillControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillControllerTest - 2018.12.19 at 22h 03m 26s.xml">
+      <configuration name="BillControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarControllerTest - 2018.12.19 at 22h 05m 00s.xml">
+      <configuration name="CarControllerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="151735000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49265906" visible="true" weight="0.18791947" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Favorites" order="2" sideWeight="0.51692307" side_tool="true" weight="0.27155825" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Structure" order="7" sideWeight="0.48307693" weight="0.27155825" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49621785" weight="0.4957507" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49546143" weight="0.3980424" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" sideWeight="0.49777117" weight="0.3286638" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32952693" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5011236" side_tool="true" weight="0.32832617" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5045386" side_tool="true" weight="0.15334421" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49962547" weight="0.3286119" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.12405446" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.3295302" />
+      <window_info anchor="right" id="TCPMON" order="11" weight="0.329296" />
+      <window_info anchor="right" id="TODO" order="12" />
+      <window_info anchor="right" id="Mongo Explorer" order="13" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49265906" visible="true" weight="0.2677761" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Favorites" order="2" sideWeight="0.51692307" side_tool="true" weight="0.27155825" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Structure" order="7" sideWeight="0.48307693" weight="0.27155825" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49621785" weight="0.4290375" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49546143" weight="0.3980424" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" sideWeight="0.49777117" weight="0.3286638" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32952693" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5011236" side_tool="true" weight="0.32832617" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5045386" side_tool="true" weight="0.15334421" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49962547" weight="0.32952693" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.19062027" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+      <window_info anchor="right" id="TCPMON" order="11" weight="0.329296" />
+      <window_info anchor="right" id="TODO" order="12" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/CarController.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/CarController.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="auth" language="JAVA" />
+        <watch expression="userRepository.findAll()" language="JAVA" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="list" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>userRepository.findAll()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>auth</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.2.RELEASE/spring-security-core-5.1.2.RELEASE-sources.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.3.RELEASE/spring-context-5.1.3.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <marker date="1547151494022" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547151494022" expanded="false" signature="162:457" ph="..." />
+            <marker date="1547151494022" expanded="true" signature="459:545" ph="@{...}" />
+            <marker date="1547151494022" expanded="true" signature="584:637" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.3.RELEASE/spring-context-5.1.3.RELEASE-sources.jar!/org/springframework/context/annotation/Configuration.java" />
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/bean/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.2.RELEASE/spring-security-core-5.1.2.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.3.RELEASE/spring-webmvc-5.1.3.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="574" selection-start-line="574" selection-end-line="574" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program files/java jdk/src.zip!/java/security/Principal.java" />
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/bean/AuthorizedUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service/src/main/java/rsoi/AuthorizedUserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.2.RELEASE/spring-security-core-5.1.2.RELEASE-sources.jar!/org/springframework/security/core/userdetails/User.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.1.1.RELEASE/spring-security-oauth2-2.1.1.RELEASE.jar!/org/springframework/security/oauth2/provider/OAuth2Authentication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1547422918299" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1547422918299" expanded="false" signature="168:360" ph="..." />
+            <marker date="1547422918299" expanded="true" signature="703:922" ph="{...}" />
+            <marker date="1547422918299" expanded="false" signature="958:969" ph=" { " />
+            <marker date="1547422918299" expanded="false" signature="979:985" ph=" }" />
+            <marker date="1547422918299" expanded="true" signature="1020:1151" ph="{...}" />
+            <marker date="1547422918299" expanded="false" signature="1186:1197" ph=" { " />
+            <marker date="1547422918299" expanded="false" signature="1236:1242" ph=" }" />
+            <marker date="1547422918299" expanded="false" signature="1287:1298" ph=" { " />
+            <marker date="1547422918299" expanded="false" signature="1324:1330" ph=" }" />
+            <marker date="1547422918299" expanded="false" signature="1381:1392" ph=" { " />
+            <marker date="1547422918299" expanded="false" signature="1423:1429" ph=" }" />
+            <marker date="1547422918299" expanded="true" signature="1468:1605" ph="{...}" />
+            <marker date="1547422918299" expanded="true" signature="1642:1937" ph="{...}" />
+            <marker date="1547422918299" expanded="true" signature="1975:3123" ph="{...}" />
+            <marker date="1547422918299" expanded="true" signature="3151:3389" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.1.1.RELEASE/spring-security-oauth2-2.1.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/OAuth2Authentication.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.2.RELEASE/spring-security-core-5.1.2.RELEASE-sources.jar!/org/springframework/security/authentication/AbstractAuthenticationToken.java" />
+    <entry file="file://$PROJECT_DIR$/auth-server/src/main/java/rsoi/bootstrap/DataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="33" column="45" lean-forward="true" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/src/main/java/rsoi/CustomUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="36" column="129" selection-start-line="36" selection-start-column="129" selection-end-line="36" selection-end-column="129" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/src/main/java/rsoi/AuthServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="33" column="50" lean-forward="true" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/src/main/resources/templates/error/401.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/src/main/java/rsoi/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/src/main/java/rsoi/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE.jar!/org/springframework/web/server/ResponseStatusException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/bootstrap/DataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/resources/templates/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/resources/templates/securedPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/security/ui/UiSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/security/ui/UiWebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="47" lean-forward="true" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.1.RELEASE/spring-boot-autoconfigure-2.1.1.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="254" column="44" selection-start-line="254" selection-start-column="44" selection-end-line="254" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/ErrorController.java" />
+    <entry file="file://$PROJECT_DIR$/auth-server/src/main/resources/templates/error/400.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/resources/templates/error/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-server/src/main/resources/templates/error/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" lean-forward="true" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/resources/templates/error/400.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/resources/templates/error/401.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/resources/templates/error/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/CustomException.java" />
+    <entry file="file://$PROJECT_DIR$/auth-server/src/main/java/rsoi/AuthorizationServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/CarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/FrontendMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend-service/src/main/java/rsoi/controller/ErrController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bill-service/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car-service/src/main/java/rsoi/CarMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts-service/src/main/java/rsoi/PartsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/rsoi/GatewayMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bill-service/src/main/java/rsoi/BillMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bill-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>labs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

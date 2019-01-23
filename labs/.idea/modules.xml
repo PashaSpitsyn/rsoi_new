@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-server/auth-server.iml" filepath="$PROJECT_DIR$/auth-server/auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bill-service/bill-service.iml" filepath="$PROJECT_DIR$/bill-service/bill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-service/car-service.iml" filepath="$PROJECT_DIR$/car-service/car-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend-service/frontend-service.iml" filepath="$PROJECT_DIR$/frontend-service/frontend-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs.iml" filepath="$PROJECT_DIR$/labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parts-service/parts-service.iml" filepath="$PROJECT_DIR$/parts-service/parts-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>

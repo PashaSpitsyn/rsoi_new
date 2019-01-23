@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+<!--/*@thymesVar id="cars" type="java.util.List"*/-->
+<div class="container-fluid" style="margin-top: 20px">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h1 class="panel-title">Car Service</h1>
+                </div>
+
+                <div class="panel-body">
+                    <div class="table" th:if="${not #lists.isEmpty(cars)}">
+                        <table class="table table-striped">
+                            <thead class="thead-inverse">
+                            <tr>
+                                <th>Mark</th>
+                                <th>Type</th>
+                                <th>Location</th>
+                                <th>State</th>
+                                <th>User</th>
+                                <th>View</th>
+                                <th>Update</th>
+                                <th>Delete</th>
+                            </tr>
+                            </thead>
+                            <!--/*@thymesVar id="car" type="bean.Car"*/-->
+                            <tr th:each="car : ${cars}">
+                                <td th:text="${car.mark}"></td>
+                                <td th:text="${car.type}"></td>
+                                <td th:text="${car.location}"></td>
+                                <td th:text="${car.repairState}"></td>
+                                <td th:text="${car.user.firstName} +' '+ ${car.user.lastName}"></td>
+                                <td><a href="#" th:href="@{'/car/'+ ${car.id} + '/show'}">View</a></td>
+                                <td><a href="#" th:href="@{'/car/' + ${car.id} + '/update'}">Update</a></td>
+                                <td><a href="#" th:href="@{'/car/' + ${car.id} + '/delete'}">Delete</a></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div class="panel-footer">
+                    <div class="row">
+                        <div class="col-md-1">
+                            <a class="btn btn-default" href="#" th:href="@{'/car/new'}"
+                               role="button">New Car</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

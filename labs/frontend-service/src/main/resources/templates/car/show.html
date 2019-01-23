@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title>Car Form</title>
+</head>
+<body>
+
+<div class="container-fluid" style="margin-top: 20px">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <!--/*@thymesVar id="car" type="bean.Car"*/-->
+                <div class="pannel-group">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h1 class="panel-title">Edit Car Information</h1>
+                        </div>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-md-3 form-group">
+                                    <label>User:</label>
+                                    <p th:text="${car.user.firstName} + ' ' + ${car.user.lastName}"/>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3 form-group">
+                                    <label>Mark:</label>
+                                    <p th:text="${car.mark}"/>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3 form-group">
+                                    <label>Type:</label>
+                                    <p th:text="${car.type}"/>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3 form-group">
+                                    <label>Color:</label>
+                                    <p th:text="${car.color}"/>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3 form-group">
+                                    <label>Wash state:</label>
+                                    <p th:text="${car.repairState}"/>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3 form-group">
+                                    <label>Location:</label>
+                                    <p th:text="${car.location}"/>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 form-group">
+                                    <label>Description:</label>
+                                    <p th:text="${car.description}"/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

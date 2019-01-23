@@ -1,0 +1,6 @@
+rsoi\AuthServerConfig.class
+rsoi\bootstrap\DataLoader.class
+rsoi\CustomUserService.class
+rsoi\AuthorizationServerApplication.class
+rsoi\UserController.class
+rsoi\SecurityConfig.class

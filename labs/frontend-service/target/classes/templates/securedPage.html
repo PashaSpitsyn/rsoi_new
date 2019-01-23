@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Spring Security SSO</title>
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" />
+</head>
+
+<body>
+<div class="container" style="margin-top: 10%">
+    <div class="row justify-content-md-center">
+        <div class="col-sm-12">
+            <h1 style="text-align: center">Secured Page</h1>
+            <p style="text-align: center; padding-top: 40px" th:text="'Welcome, '+${#authentication.name}">Name</p>
+        </div>
+        <div class="col-sm-12">
+            <p  style="text-align: center; padding-top: 30px"><a class="btn btn-primary" href="main">See all cars</a></p>
+        </div>
+    </div>
+</div>
+</body>
+</html>
