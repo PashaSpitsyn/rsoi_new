@@ -19,9 +19,11 @@ sudo: false
 install: true
 jdk:
   - oraclejdk8
+services: mongodb
 script:
   - mvn clean install
-  - mvn clean package
+  - build
+
 
 cache:
   directories:
