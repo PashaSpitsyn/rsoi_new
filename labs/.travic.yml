@@ -1,13 +1,4 @@
-#language: java
-#jdk: oraclejdk8
-##sudo: false
-##befor_script:
-##  -composer install --no-interaction
-#
-#
-#script:
-#  - make test
-  mvn test -B
+
 
 language: java
 sudo: false
