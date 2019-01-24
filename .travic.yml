@@ -1,15 +1,14 @@
 language: java
 jdk: oraclejdk8
-sudo: false
-befor_script:
-  -composer install --no-interaction
-
-
-script:
-  - make test
-  - make build
-
-deploy:
-  provider: heroku
-  api_key:
-    secure: 19dcaf5a-e3bf-4f55-872c-36c6f4877345
+jobs:
+  include:
+    - stage: unit tests
+      script: "Running unit tests (1)"
+    - stage: unit tests
+      script: "Running unit tests (2)"
+    - stage: deploy to staging
+      script: skip
+      deploy: 
+        provider: heroku
+        app: sf-stages-staging
+        api_key: 19dcaf5a-e3bf-4f55-872c-36c6f4877345
