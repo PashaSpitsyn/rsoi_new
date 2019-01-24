@@ -13,4 +13,3 @@ deploy:
   api_key: 19dcaf5a-e3bf-4f55-872c-36c6f4877345
   on:
     all_branches: true
- 
