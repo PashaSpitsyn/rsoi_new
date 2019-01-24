@@ -8,3 +8,8 @@ befor_script:
 script:
   - make test
   - make build
+
+deploy:
+  provider: heroku
+  api_key:
+    secure: 19dcaf5a-e3bf-4f55-872c-36c6f4877345
