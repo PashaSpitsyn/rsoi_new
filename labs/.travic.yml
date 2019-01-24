@@ -12,6 +12,10 @@ script:
   - 'make build'
 
 
-
+deploy:
+  provider: heroku
+  app: rsoi123
+  api_key:
+    secure: 19dcaf5a-e3bf-4f55-872c-36c6f4877345
 
 
