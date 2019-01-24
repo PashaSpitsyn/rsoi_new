@@ -1,2 +1,10 @@
 language: java
 jdk: oraclejdk8
+sudo: false
+befor_script:
+  -composer install --no-interaction
+
+
+script:
+  - make test
+  - make build
