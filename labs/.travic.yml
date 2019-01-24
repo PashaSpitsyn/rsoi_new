@@ -7,12 +7,7 @@
 #
 #script:
 #  - make test
-#  - make build
-#deploy:
-#  provider: heroku
-#  api_key: 19dcaf5a-e3bf-4f55-872c-36c6f4877345
-#  on:
-#    all_branches: true
+  mvn test -B
 
 language: java
 sudo: false
@@ -22,7 +17,8 @@ jdk:
 services: mongodb
 script:
   - mvn clean install
-  - build
+  - 'make test'
+  - 'make build'
 
 
 cache:
