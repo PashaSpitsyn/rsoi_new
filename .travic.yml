@@ -1,0 +1,25 @@
+#language: java
+#jdk: oraclejdk8
+##sudo: false
+##befor_script:
+##  -composer install --no-interaction
+#
+#
+#script:
+#  - make test
+#  - make build
+#deploy:
+#  provider: heroku
+#  api_key: 19dcaf5a-e3bf-4f55-872c-36c6f4877345
+#  on:
+#    all_branches: true
+
+language: java
+sudo: false
+install: true
+jdk:
+  - oraclejdk8
+script: mvn clean verify
+
+
+
